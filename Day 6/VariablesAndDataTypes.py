@@ -10,7 +10,7 @@ d = None
 
 """
 What is a Data Type ?
-Data Type specifies the type of value a variable holdx. This is required in programming to do various operations without causing an error.
+Data Type specifies the type of value a variable hold. This is required in programming to do various operations without causing an error.
 In python, we can print the type of any operator using type function.
 """
 

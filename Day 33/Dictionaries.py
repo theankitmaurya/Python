@@ -5,7 +5,6 @@ Python Dictionaries -> Dictionaries are ordered collection of data items. They s
 dic = {'name': 'Ankit', 'age': 20, 'eligible': True}
 print(dic)
 
-
 """
 Accessing Dictionary Items:
 1. Accessing Single Values -> Values in a dictionary can be accessed using keys. We can access dictionary values by mentioning keys either in square brackets or by using get method.
